@@ -1,2 +1,5 @@
-# wine-quality-analysis
-Using Machine Learning Models to predict the quality of given wine.
+## Project: Wine Quality Analysis
+
+### Data
+
+The dataset will be downloaded from kaggle:  [Wine Quality](https://www.kaggle.com/danielpanizzo/wine-quality)
